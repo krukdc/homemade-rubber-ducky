@@ -1,0 +1,9 @@
+Wymagane oprogramowanie:
+
+Arduino IDE (https://www.arduino.cc/en/software)
+Biblioteka Arduino Keyboard (zainstalowana w Arduino IDE, znajduje się w zakładce Biblioteki)
+
+Wymagany sprzęt:
+
+Mikrokontroler Arduino (my używamy digispark)
+Zwykły pendrive USB
