@@ -1,0 +1,15 @@
+Krok 1: Podłączenie mikrokontrolera do komputera
+Podłącz mikrokontroler Arduino do komputera za pomocą kabla USB.
+
+Krok 2: Konfiguracja Arduino IDE
+Zainstaluj Arduino IDE na swoim komputerze i otwórz go. Wybierz odpowiedni model płytki mikrokontrolera w menu Narzędzia > Płytka.
+
+Krok 3: Programowanie mikrokontrolera
+Otwórz nowy projekt w Arduino IDE. Napisz skrypt, który będzie symulował wprowadzenie komend na klawiaturze. Skrypt powinien korzystać z biblioteki Arduino Keyboard.
+Po napisaniu skryptu, wgraj go na mikrokontroler, klikając przycisk "Wgrywanie" w Arduino IDE.
+
+Krok 4: Zmontowanie pendrive'a USB z mikrokontrolerem
+Otwórz pendrive USB i wyjmij z niego elektronikę. Podłącz przewody z mikrokontrolera do odpowiednich pinów na płytce pendrive'a USB. W zależności od konkretnego modelu pendrive'a, schemat podłączenia przewodów może się różnić, dlatego zalecam zapoznanie się z dokumentacją techniczną konkretnego modelu.
+
+Krok 5: Testowanie urządzenia
+Podłącz pendrive USB z zmontowanym mikrokontrolerem do komputera i poczekaj, aż system rozpozna go jako klawiaturę. Uruchom notatnik i sprawdź, czy skrypt został wykonany poprawnie.
