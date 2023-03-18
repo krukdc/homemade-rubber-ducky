@@ -1,0 +1,5 @@
+Dla Digispark'a:
+Pin D3 (Digital 3) - podłącz go do pinu D+ (Data+) na pendrive'ie
+Pin D2 (Digital 2) - podłącz go do pinu D- (Data-) na pendrive'ie
+Pin VCC (zasilanie) - podłącz go do pinu VCC na pendrive'ie
+Pin GND (masa) - podłącz go do pinu GND na pendrive'ie
